@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /slike/
+
+sitemap: sajtzasatove.000webhostapp.com/sitemap.xml
